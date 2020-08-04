@@ -1,7 +1,7 @@
 import React from "react";
 import whatsappIcon from '../../assets/images/icons/whatsapp.svg'
 
-import '../../Pages/TeacherList/styles.css'
+
 
 interface TeacherItemProps {
     img?:string;

@@ -1,7 +1,7 @@
 import React from 'react'
 import PageHeader from '../../components/PageHeader'
 import TeacherItem from '../../components/TeacherItem' 
-
+import './styles.css'
 export default function TeacherList(){
     return (
         <div id="page-teacher-list" className="container">
@@ -22,7 +22,7 @@ export default function TeacherList(){
                 </form>
             </PageHeader>
             <main>
-                <TeacherItem name="João Pedro" company="Programação" description="Programador web junior" price="240,00"/>
+                <TeacherItem name="João Pedro" company="Programação" description="Programador web junior" price="20,00"/>
             </main>
         </div>
     )
