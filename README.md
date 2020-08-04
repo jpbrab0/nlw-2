@@ -6,12 +6,12 @@ Proffy é uma plataforma de estudos dedicada ao ensino a distancia no app web vo
 # Jornada na Next Level Week
 
 # Aula 1
-- [x] - Criar projeto com o yarn
+- [x] - Criar projeto com o yarn(web é o nome da pasta!)
 ```bash
 yarn create react-app web --template typescript
 ``` 
 - [x] - Fazer o landing page
-- [x] - Fazer a página listando os "professores"(Por enquanto não tem back end)
+- [x] - Fazer a página "listando" os professores(Por enquanto não tem back end)
 - [x] - Mobile first
 - [x] - Responsividade
 - [x] - Componentes funcionais
