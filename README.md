@@ -5,4 +5,4 @@
 #
 # Descrição
 Proffy é uma plataforma de estudos dedicada ao ensino a distancia no app web você podera:
-- [ x ] - Cadastrar um professor
+- [x] - Cadastrar um professor
